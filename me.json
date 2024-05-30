@@ -1,0 +1,15 @@
+{
+    "name": {
+        "first": "Xin",
+        "last": "Wang"
+    } ,
+    "fromWisconsin": false,
+    "numCridits": 2024,
+    "major": "Electrical Engineering",
+    "interests":[
+        "coding",
+        "reading",
+        "photograph",
+        "high tech devices"
+    ]
+}
